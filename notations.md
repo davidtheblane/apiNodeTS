@@ -74,6 +74,17 @@ porém a melhor opção é instalar o nodemon
 - instalar o mongoose para fazer a conexão e manipulação de dados
 `yarn add -D mongoose`
 
+- criar os schemas
 
-
+**Criando as rotas**
+- definir os casos de uso(ações que o usuário poderá realizar)
+  . List categories
+  . Create category
+  . List products
+  . Create products
+  . Get products by category
+  . List orders
+  . Create order
+  . Change order status
+  . Delete/cancel order
 
