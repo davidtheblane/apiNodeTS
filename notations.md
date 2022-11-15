@@ -88,3 +88,10 @@ porém a melhor opção é instalar o nodemon
   . Change order status
   . Delete/cancel order
 
+**Enviando arquivos de imagem usando multer**
+- instalar o multer
+  `yarn add multer`
+
+instalar a tipagem de typescript para o multer
+- yarn add -D @types/multer
+
