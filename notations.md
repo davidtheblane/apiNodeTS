@@ -41,7 +41,7 @@ exemplo: "outDir": "dist"
   . node
   . style(i'll choose)
   . config file(JSON)
-  . identation(4)
+  . identation spaces(4)
   . quotes(single)
   . line endings(unix)
   . semicolons(yes)
