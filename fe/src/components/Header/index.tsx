@@ -1,9 +1,7 @@
-import React from 'react';
 import logo from '../../assets/images/logo.svg';
 import {Container, Content} from './styles';
 
-
-function header(){
+export function Header(){
   return (
     <Container>
       <Content>
@@ -17,5 +15,3 @@ function header(){
     </Container>
   );
 }
-
-export default header;
