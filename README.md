@@ -1,3 +1,4 @@
 ...
-Criando API com NodeJS e Typescript 
-Criando front com React, Web e Mobile
+Criando API e Backend com NodeJS e Typescript 
+Criando Frontend com React 
+Criando Mobile com ReactNative
